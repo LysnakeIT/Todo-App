@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Todo App </string>
+<string name="context_display">Choisissez un contexte</string>
+    <string name="contexte">Contexte:</string>
+    <string name="creer_tache">Créer la tâche</string>
+    <string-array name="context_array">
+    <item>Maison</item>
+    <item>Cuisine</item>
+    <item>Jardin</item>
+    <item>Travail</item>
+    <item>Ecole</item>
+    <item>Magasin</item>
+    <item>Sport</item>
+    <item>Docteur</item>
+    <item>Autre</item>
+</string-array>
+</resources>
