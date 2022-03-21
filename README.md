@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/LysnakeIT/Todo-App/main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" alt="Todo App" width="200"></a>
+  <img src="https://raw.githubusercontent.com/LysnakeIT/Todo-App/main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" alt="Todo App" width="200"></a>
   <br>
   Todo App
   <br>
